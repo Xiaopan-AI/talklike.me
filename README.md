@@ -5,7 +5,7 @@
 
 ### Intro
 
-**[Talklike.me](https://www.talklike.me)** is an intelligent iOS shortcut service that transforms your written text into more engaging, conversational, or contextually appropriate responses using AI. With a simple double-tap or triple-tap on the back of your iPhone, you can instantly rewrite selected text to match your desired communication style.
+**[Talklike.me](https://www.talklike.me)** is an intelligent iOS shortcut service that helps you come up with more engaging, conversational, or contextually appropriate responses using AI. With a simple double-tap or triple-tap on the back of your iPhone, you can instantly rewrite selected text to match your desired communication style.
 
 https://github.com/user-attachments/assets/2e606e50-6492-4a11-b167-1d29d9215251
 
