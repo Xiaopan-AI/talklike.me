@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/2e606e50-6492-4a11-b167-1d29d9215251
 1. **Navigate to your open chat** on any application
 2. **Trigger the shortcut** via Back Tap gesture (double or triple tap)
 3. **Get AI-enhanced responses** instantly, powered by OpenAI's GPT-5 language models
-4. **Paste the result** with a single tap
+4. **Copypaste the suggestion** with a single tap
 
 ### Key Features
 
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/2e606e50-6492-4a11-b167-1d29d9215251
 - **📊 Usage Tracking**: Monitor your daily response generations
 - **✨ Custom Prompts** (Pro): Define your own AI behavior and response style
 - **💎 Flexible Pricing**: 
-  - **Free Tier**: 10 daily transformations
+  - **Free Tier**: 10 daily responses
   - **Pro Tier**: Unlimited usage with custom prompt capabilities
 - **🎯 Native iOS Integration**: Seamless workflow using Apple's OS level Shortcuts App and Back Tap trigger
 - **🖼️ Context-Aware**: Captures both text and visual context for better responses
