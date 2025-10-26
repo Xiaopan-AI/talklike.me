@@ -26,3 +26,7 @@ https://github.com/user-attachments/assets/2e606e50-6492-4a11-b167-1d29d9215251
   - **Pro Tier**: Unlimited usage with custom prompt capabilities
 - **🎯 Native iOS Integration**: Seamless workflow using Apple's OS level Shortcuts App and Back Tap trigger
 - **🖼️ Context-Aware**: Captures both text and visual context for better responses
+
+### Social
+
+<a href="https://www.producthunt.com/products/talklike-me?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-talklike&#0045;me" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1031128&theme=light&t=1761488737743" alt="Talklike&#0046;me - Perfect&#0032;responses&#0044;&#0032;every&#0032;time&#0046;&#0032;Works&#0032;with&#0032;any&#0032;text&#0045;based&#0032;app | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
