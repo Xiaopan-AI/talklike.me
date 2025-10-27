@@ -1,7 +1,7 @@
 ## **Talklike.me** - AI-Powered Chat Response Generator for iOS
 
 ### Community Support
-- See [Issues](https://github.com/Xiaopan-AI/talklike.me/issues) section for community-based discussion.
+- See [ProductHunt Forums](https://www.producthunt.com/p/talklike-me) for community-based discussion and support.
 
 ### Intro
 
